@@ -1,0 +1,8 @@
+{
+    "name":"mysql_test",
+    "version": "0.0.1",
+    "dependencies":{
+        "express":"~4.10.2",
+        "mysql":"^2.6.1"
+    }
+}
